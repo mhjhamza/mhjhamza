@@ -12,7 +12,7 @@
 - :technologist: I'm a Data & AI Enthusiast.
 
   
-  <h4> Have a look at my <a  href="https://linkedin.com/in/mhjhamza"> LinkedIn Profile</a> and decide for yourself! 
+  <h4> Have a look at my <a  href="https://linkedin.com/in/mhjhamza"> LinkedIn Profile</a> 
 </h4>
   
 
