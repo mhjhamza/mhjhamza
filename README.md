@@ -1,26 +1,15 @@
 <h1  align="center">Hi , I'm Muhammad Hamza Javed <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="35"></h1>
-<h2  align="center">Founder Numpy Labs LLC</h2>
-<p  align="center">A Premier AWS Solutions Provider...</p>
+<h2  align="center">Data & AI Engineer</h2>
   
-  
-
-  
-  
-
-
 
 ## :sassy_man: About me
 
-- 🔭 I’m currently working on Data Engineering project on AWS Cloud.
+- 🔭 I’m currently working on Data Engineering projects with Confiz.
 - 🌱 I’m currently learning how to build scalable Data Solutions and ETL Pipelines...
-- 👯 I’m looking to collaborate on building a software product...
 - 🤔 I’m looking for help with training young engineers...
-- 💬 Ask me about business, sales and self-help books...
 - 📫 How to reach me: LinkedIn...
 - :trophy: AWS Udemy Instructor with 30,000+ Students.
-- :technologist: I'm a Data Enthusiast and I'm running a Software Company with Data Specialization.
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :nerd_face: Always `learning new things`
+- :technologist: I'm a Data & AI Enthusiast.
 
   
   <h4> Have a look at my <a  href="https://linkedin.com/in/mhjhamza"> LinkedIn Profile</a> and decide for yourself! 
@@ -90,20 +79,5 @@
 
 <br/>
 
-  
-
-## :trophy: Git profile Trophies
-
-  
-
-<p  align="center">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=mhjhamza&layout=compact&theme=algolia"  alt="mhjhamza"  /></a>  </p>
-
-  
-
------
 
 Credits: [mhjhamza](https://github.com/mhjhamza)
-
-  
-
-Last Edited on: 10/02/2022
